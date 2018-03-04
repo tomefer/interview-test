@@ -1,0 +1,11 @@
+parameters:
+    database_host: db
+    database_port: null
+    database_name: loladb
+    database_user: root
+    database_password: root
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 471c5411babf7b637c5cf2adf19596bf2fb2bfcb
