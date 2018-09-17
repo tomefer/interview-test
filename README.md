@@ -40,7 +40,7 @@ y nos devuelva un JSON con la información del pedido asignado y los productos q
 - Optimización del performance
 # Entrega
 
-Mediante subida del ejercicio a Bitbucket/Github/… o enviando un email con el código a tech@lolamarket.com
+Mediante subida del ejercicio a Bitbucket/Github/… o enviando un email con el código a tech@...com
 
 # Resolución del ejercicio
 
@@ -52,7 +52,7 @@ $ cp .env.dist .env
 $ cp app/config/parameters.yml.dist app/config/parameters.yml
 ```
 Es importante actualizar el valor de SYMFONY_APP_PATH en el fichero .env
-SYMFONY_APP_PATH=/Users/ftome/lola-market-test
+SYMFONY_APP_PATH=/Users/ftome/...-market-test
 
 Luego levantar docker con 
 ```bash
